@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "temperature-coverter"
+  "defaultProject": "temperature-coverter",
+  "cli": {
+    "analytics": false
+  }
 }
